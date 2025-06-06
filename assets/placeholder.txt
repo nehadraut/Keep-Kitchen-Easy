@@ -1,0 +1,7 @@
+This folder will contain the following image assets:
+- icon.png (App icon)
+- splash.png (Splash screen image)
+- adaptive-icon.png (Adaptive icon for Android)
+- favicon.png (Favicon for web)
+
+You'll need to replace these with actual image files for your app.
